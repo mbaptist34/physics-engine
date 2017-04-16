@@ -2,7 +2,7 @@ CC = g++
 CFLAGS = -Wall -Wextra -c
 LFLAGS = -Wall
 
-GTEST_DIR = googletest/googletest
+GTEST_DIR = googletest/goo
 GTEST_FLAGS = -isystem $(GTEST_DIR)/include
 
 
