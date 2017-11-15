@@ -1,0 +1,66 @@
+ID Assigned.
+MMObject ID: 1 created.
+MMObject ID: 1 dead.
+ID Assigned.
+MMObject ID: 2 created.
+MMObject ID: 2 dead.
+ID Assigned.
+MMObject ID: 3 created.
+MMObject ID: 3 dead.
+ID Assigned.
+MMObject ID: 4 created.
+ID Assigned.
+MMObject ID: 5 created.
+MMObject ID: 4 dead.
+ID Assigned.
+MMObject ID: 6 created.
+ID Assigned.
+MMObject ID: 7 created.
+MMObject ID: 6 dead.
+ID Assigned.
+MMObject ID: 8 created.
+ID Assigned.
+MMObject ID: 9 created.
+ID Assigned.
+MMObject ID: 10 created.
+ID Assigned.
+MMObject ID: 11 created.
+ID Assigned.
+MMObject ID: 12 created.
+ID Assigned.
+MMObject ID: 13 created.
+ID Assigned.
+MMObject ID: 14 created.
+ID Assigned.
+MMObject ID: 15 created.
+MMObject ID: 8 dead.
+ID Assigned.
+MMObject ID: 16 created.
+MMObject ID: 16 dead.
+Collecting Garbage.
+MMObject ID: 1 collected.
+MMObject ID: 2 collected.
+MMObject ID: 3 collected.
+MMObject ID: 4 collected.
+MMObject ID: 5 dead.
+MMObject ID: 6 collected.
+MMObject ID: 7 dead.
+MMObject ID: 8 collected.
+MMObject ID: 9 dead.
+MMObject ID: 10 dead.
+MMObject ID: 16 collected.
+MMObject ID: 5 collected.
+MMObject ID: 7 collected.
+MMObject ID: 9 collected.
+MMObject ID: 11 dead.
+MMObject ID: 12 dead.
+MMObject ID: 10 collected.
+MMObject ID: 13 dead.
+MMObject ID: 14 dead.
+MMObject ID: 11 collected.
+MMObject ID: 12 collected.
+MMObject ID: 13 collected.
+MMObject ID: 14 collected.
+MMObject ID: 15 dead.
+MMObject ID: 15 collected.
+Collecting Garbage.
